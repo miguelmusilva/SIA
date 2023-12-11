@@ -1,1 +1,1 @@
-# Spatial-Image-Data-Analysis
+# Spatial Image (Data) Analysis
